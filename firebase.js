@@ -2,15 +2,14 @@
 // Initialize Firebase and export _9jaCash global for all pages
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAN_9d137mx7SkgGyY1nMwD36wC8xgk6oI",
-  authDomain: "jacashmine.firebaseapp.com",
-  projectId: "jacashmine",
-  storageBucket: "jacashmine.firebasestorage.app",
-  messagingSenderId: "375336303263",
-  appId: "1:375336303263:web:5888b4630b7be2998500aa",
-  measurementId: "G-0N8TJ3MPKJ"
+  apiKey: "AIzaSyCNGPcTbsQGVrqzob0gr_rTDw9aRd0szBg",
+  authDomain: "jaacashh-ff064.firebaseapp.com",
+  projectId: "jaacashh-ff064",
+  storageBucket: "jaacashh-ff064.firebasestorage.app",
+  messagingSenderId: "1005606861796",
+  appId: "1:1005606861796:web:65f677c5cdf326f211a5f1",
+  measurementId: "G-4MQ4Q58GQQ"
 };
-
 
 // Initialize Firebase
 if (typeof firebase !== 'undefined') {
